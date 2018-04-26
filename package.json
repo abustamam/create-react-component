@@ -1,0 +1,14 @@
+{
+  "name": "create-react-component",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": "./crc.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "change-case": "^3.0.1",
+    "commander": "^2.13.0"
+  }
+}
